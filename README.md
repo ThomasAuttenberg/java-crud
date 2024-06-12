@@ -12,4 +12,4 @@ Example Files:
 <li>UserDAO: DAO<T> implementation for User class</li>
 <li>User</li>
 
-<h2>Ready for work with PostgreSQL 16.3</h2
+<h3>Ready for work with PostgreSQL 16.3</h3>
